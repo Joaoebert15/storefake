@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.produto{
+    margin-top: 20px;
+}
+
+.produto p{
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#produtosContainer{
+    display: flex;
+    flex-direction: row;
+    
+}
